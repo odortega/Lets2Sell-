@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lets2sell-staging-222837-authRole",
+      "UnauthRoleArn": "arn:aws:iam::289226058769:role/amplify-lets2sell-staging-222837-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::289226058769:role/amplify-lets2sell-staging-222837-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-lets2sell-staging-222837-deployment",
+      "UnauthRoleName": "amplify-lets2sell-staging-222837-unauthRole",
+      "StackName": "amplify-lets2sell-staging-222837",
+      "StackId": "arn:aws:cloudformation:us-east-2:289226058769:stack/amplify-lets2sell-staging-222837/23c5b600-02fb-11ed-847b-0a907e1b9e1a",
+      "AmplifyAppId": "d2tjiu0hzli31p"
+    },
+    "categories": {
+      "function": {
+        "printConsole": {
+          "deploymentBucketName": "amplify-lets2sell-staging-222837-deployment",
+          "s3Key": "amplify-builds/printConsole-56646a6e4b713459386c-build.zip"
+        }
+      }
+    }
+  }
+}
