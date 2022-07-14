@@ -4,7 +4,6 @@
 exports.handler = async event => {
   console.log(`EVENT: ${JSON.stringify(event)}`);
   console.log(`print lambda test`);
-  console.log(`print lambda test 3`);
 
   return {
     statusCode: 200,
