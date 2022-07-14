@@ -4,7 +4,7 @@
 exports.handler = async event => {
   console.log(`EVENT: ${JSON.stringify(event)}`);
   console.log(`print lambda test`);
-  console.log(`print lambda test 4`);
+  console.log(`print lambda test 2`);
   return {
     statusCode: 200,
     //  Uncomment below to enable CORS requests
