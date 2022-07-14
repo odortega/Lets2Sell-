@@ -15,7 +15,7 @@
       "function": {
         "printConsole": {
           "deploymentBucketName": "amplify-lets2sell-staging-222837-deployment",
-          "s3Key": "amplify-builds/printConsole-78424e3533585a4a736a-build.zip"
+          "s3Key": "amplify-builds/printConsole-56646a6e4b713459386c-build.zip"
         }
       }
     }
